@@ -50,7 +50,7 @@ const Demo = () => {
         <div>
           <form className='relative w-full'>
             <input type="text" readOnly placeholder='Summary' className='relative w-full p-4 rounded ' />
-            <button className='absolute px-4 py-2 bg-blue-500 border-2 rounded right-2 bottom-2'>Copy</button>
+            <button className='absolute px-4 py-2 bg-blue-700 border-2 rounded-lg right-2 bottom-2'>Copy</button>
           </form>
         </div>
       </div>
